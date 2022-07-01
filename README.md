@@ -1,2 +1,0 @@
-# vps
-coba vps
